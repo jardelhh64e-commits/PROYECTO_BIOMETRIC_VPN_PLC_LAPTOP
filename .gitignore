@@ -36,3 +36,9 @@ logs/
 # ===== Temporales =====
 *.tmp
 *.bak
+
+# ===== Carpetas locales NO publicadas =====
+# (quedan en disco pero no se suben al repo público)
+docs/
+pruebas/
+resultados/
