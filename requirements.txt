@@ -1,0 +1,6 @@
+tensorflow
+keras
+opencv-python
+mediapipe
+python-snap7
+numpy

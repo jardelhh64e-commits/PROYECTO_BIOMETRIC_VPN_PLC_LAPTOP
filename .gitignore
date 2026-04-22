@@ -1,0 +1,38 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ===== Virtualenvs =====
+myenv/
+venv/
+env/
+.venv/
+
+# ===== IDE / Editores =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== Secretos / Variables de entorno =====
+# NUNCA subir archivos con claves reales
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# ===== Sistema operativo =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== Temporales =====
+*.tmp
+*.bak

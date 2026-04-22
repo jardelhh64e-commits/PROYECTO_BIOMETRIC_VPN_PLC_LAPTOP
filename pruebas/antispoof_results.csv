@@ -1,0 +1,6 @@
+timestamp,mode,subject,distance_cm,trial,sequence,status,duration_s,challenge_window_s
+2026-04-21T21:08:49,real,S1,-,1,turn_right|turn_left|blink_2,completed,7.27,5.0
+2026-04-21T21:08:58,real,S1,-,2,blink_2|turn_left|blink_3,completed,9.34,5.0
+2026-04-21T21:09:08,real,S1,-,3,blink_2|blink_3|turn_left,completed,9.26,5.0
+2026-04-21T21:09:16,real,S1,-,4,turn_right|blink_2|turn_left,completed,8.27,5.0
+2026-04-21T21:09:23,real,S1,-,5,blink_3|turn_right|turn_left,completed,6.66,5.0
